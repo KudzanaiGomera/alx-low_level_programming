@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 /**
- *main - prints string 
- * with a new line
- */
+*main - prints string 
+*with a new line
+*/
 int main(void)
 {
 	/* print a string to stdout */
