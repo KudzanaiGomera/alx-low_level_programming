@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * main - prints string 
+ * main - prints string
  * with a new line
  * Return: 0
  */
