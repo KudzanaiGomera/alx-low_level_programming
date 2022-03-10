@@ -11,7 +11,7 @@ int main()
 	int intType;
 	float floatType;
 	long long int  doubleType;
-	long int longType
+	long int longType;
 	char charType;
 
 	/* sizeof evaluates the size of a variable */
