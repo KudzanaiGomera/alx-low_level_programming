@@ -2,8 +2,8 @@
 #include <string.h>
 
 /**
- *main - prints string 
- *with a new line
+ * main - prints string 
+ * with a new line
  */
 int main(void)
 {
