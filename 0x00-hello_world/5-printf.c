@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 /**
  *main - prints string 
  * with a new line
