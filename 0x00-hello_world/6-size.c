@@ -6,7 +6,7 @@
  * with a new line
  * Return: 0
  */
-int main()
+int main(void)
 {
 	int intType;
 	float floatType;
