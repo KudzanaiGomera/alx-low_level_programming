@@ -9,6 +9,7 @@
 int main(void)
 {
 	/* print a string to stdout */
+	write(""");
 	puts("Programming is like building a multilingual puzzle");
 	return (0);
 }
