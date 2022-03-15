@@ -8,5 +8,5 @@
  */
 void print_alphabet(void)
 {
-    printf("abcdefghijklmnopqrstuvwxyz\n");
+printf("abcdefghijklmnopqrstuvwxyz\n");
 }
