@@ -10,5 +10,6 @@
 - What are the gcc flags -Wall -Werror -pedantic -Wextra
 - What are header files and how to to use them with #include
 
-  0. \_putchar | Write a program that prints \_putchar, followed by a new line.
-     1-alphabet | Write a function that prints the alphabet, in lowercase, followed by a new line.
+- 0-putchar | Write a program that prints \_putchar, followed by a new line.
+- 1-alphabet | Write a function that prints the alphabet, in lowercase, followed by a new line.
+- 2-print_alphabet_x10 Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
