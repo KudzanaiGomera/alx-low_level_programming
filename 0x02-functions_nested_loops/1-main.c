@@ -1,4 +1,5 @@
 #include "main.h"
+#include "1-alphabet.c"
 
 /**
  * main - Entry for testing.
@@ -7,5 +8,6 @@
  */
 int main(void)
 {
+  print_alphabet();
   return (0);
 }
