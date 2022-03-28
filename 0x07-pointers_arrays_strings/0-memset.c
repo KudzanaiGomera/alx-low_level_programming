@@ -7,18 +7,14 @@
  * @len: number of bytes to fill
  * Return: returns pointer to location filled
  */
-char *_memset(void *b, int c, unsigned int len)
+char *_memset(char *s, char b, unsigned int n)
 {
-	unsigned char *str;
-	unsigned char a;
+	char *start = s;
 
-	str = (unsigned char *)b;
-	a = (unsigned char)c;
-	while (len > 0)
+	while (n--)
 	{
-		len--;
-		*str = a;
-		str++;
+		*s = b;
+		s++;
 	}
-	return (b);
+	return (start);
 }
